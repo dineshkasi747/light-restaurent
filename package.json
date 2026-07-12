@@ -1,0 +1,12 @@
+{
+  "name": "restaurant-project",
+  "version": "1.0.0",
+  "description": "Static restaurant website served via Express",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
